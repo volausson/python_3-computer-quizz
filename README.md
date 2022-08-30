@@ -1,31 +1,26 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# **Python3 Computer Quizz**
 
-Welcome volausson,
+The **Python3 Computer Quizz** is a Python terminal game that runs in Code Institutes mock terminal on Heroku.
 
-This is the Code Institute student template for deploying your third portfolio project, the Python command-line project. The last update to this file was: **August 17, 2021**
+Players are provided with questions associated to computers.
 
-## Reminders
+[You can find the live version of my project here!](https://python3-computer-quizz.herokuapp.com/)
 
-* Your code must be placed in the `run.py` file
-* Your dependencies must be placed in the `requirements.txt` file
-* Do not edit any of the other files or your code may not deploy properly
 
-## Creating the Heroku app
+![This is an image](assets/img/FireShot%20Capture%20024%20-%20Multi%20Device%20Website%20Mockup%20Generator%20-%20techsini.com.png)
 
-When you create the app, you will need to add two buildpacks from the _Settings_ tab. The ordering is as follows:
 
-1. `heroku/python`
-2. `heroku/nodejs`
+# How to play
+The **Python3 Computer Quizz** is based on the traditional quiz and uses an answer/option model where every answer has 3 options to chose from.
+You can read about how quizzes came about and how the game works on
+[Wikipedia.](https://en.wikipedia.org/wiki/Quiz)
 
-You must then create a _Config Var_ called `PORT`. Set this to `8000`
 
-If you have credentials, such as in the Love Sandwiches project, you must create another _Config Var_ called `CREDS` and paste the JSON into the value field.
+# Features
 
-Connect your GitHub repository and deploy as normal.
+## Existing Features
 
-## Constraints
+* The first feature of the quiz wishes the player welcome and askes them if they are ready to play.
 
-The deployment terminal is set to 80 columns by 24 rows. That means that each line of text needs to be 80 characters or less otherwise it will be wrapped onto a second line.
+![This is an image](assets/FireShot%20Capture%20026%20-%20Python%20Terminal%20by%20Code%20Institute%20-%20python3-computer-quizz.herokuapp.com.png)
 
------
-Happy coding!
